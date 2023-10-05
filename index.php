@@ -11,6 +11,7 @@
 			-moz-opacity: 0.6;
 			opacity:.60;
 			filter: alpha(opacity=60);
+			/*test=no;*/
 		}
 		.white_content {
 			display: none;
